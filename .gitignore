@@ -1,0 +1,10 @@
+bin/
+obj/
+dist/
+.vs/
+*.user
+*.pdb
+*.zip
+history.json
+WebView2/
+.env
